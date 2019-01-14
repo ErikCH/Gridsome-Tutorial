@@ -1,0 +1,14 @@
+{
+  "name": "my-grid-site1",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-faker": "^0.2.0",
+    "axios": "^0.18.0",
+    "gridsome": "^0.4.0"
+  }
+}
